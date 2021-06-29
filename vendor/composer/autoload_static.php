@@ -66,6 +66,8 @@ class ComposerStaticInit528663fc3cdc808e392f44906029e175
     );
 
     public static $classMap = array (
+        'BingoCaller' => __DIR__ . '/../..' . '/src/BingoCaller.php',
+        'BingoCardGenerator' => __DIR__ . '/../..' . '/src/BingoCardGenerator.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'PHPUnit\\Exception' => __DIR__ . '/..' . '/phpunit/phpunit/src/Exception.php',
         'PHPUnit\\Framework\\Assert' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert.php',
