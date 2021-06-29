@@ -8,9 +8,9 @@
 
 ### Generating Bingo Cards
 
-_ We need a Bingo card generator
-- Every Bingo card has 25 unique spaces
-- Each column contains numbers between $loweBound and $upperBound (inclusive)
+_ Necesitamos un generador de cartones de bingo
+- Cada cartón de Bingo tiene 25 espacios únicos
+- Cada columna contiene números entre $ loweBound y $ upperBound (inclusive)
 
 | Column | Lower bound | Upper bound |
 | - | -- | -- |
