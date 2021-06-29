@@ -69,6 +69,7 @@ class ComposerStaticInit528663fc3cdc808e392f44906029e175
         'BingoCaller' => __DIR__ . '/../..' . '/src/BingoCaller.php',
         'BingoCardGenerator' => __DIR__ . '/../..' . '/src/BingoCardGenerator.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'Models\\Card' => __DIR__ . '/../..' . '/src/Models/Card.php',
         'PHPUnit\\Exception' => __DIR__ . '/..' . '/phpunit/phpunit/src/Exception.php',
         'PHPUnit\\Framework\\Assert' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert.php',
         'PHPUnit\\Framework\\AssertionFailedError' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Exception/AssertionFailedError.php',
