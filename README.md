@@ -11,6 +11,7 @@
 _ Necesitamos un generador de cartones de bingo
 - Cada cartón de Bingo tiene 25 espacios únicos
 - Cada columna contiene números entre $ loweBound y $ upperBound (inclusive)
+- Hay 1 espacio libre en el medio de la tarjeta generada.
 
 | Column | Lower bound | Upper bound |
 | - | -- | -- |
