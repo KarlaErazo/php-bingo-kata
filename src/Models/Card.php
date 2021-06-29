@@ -11,7 +11,7 @@ class Card
 
     public function isValid(): bool
     {
-        return $this->hasvalidSize() && $this->respectBoundaries();
+        return $this->hasValidSize() && $this->respectBoundaries();
     }
 
     private function hasValidSize(): bool
