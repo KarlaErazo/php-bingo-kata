@@ -7,7 +7,7 @@ class BingoCardGeneratorTest extends TestCase
     public function testCardContainsValidNumbersRespectingColumnBoundaries()
     {
         $generator = new BingoCardGenerator() ;
-        $card = $generator->generate();
+       $card = $generator->generate();
 
         $this->assertTrue($card->isValid());
     }

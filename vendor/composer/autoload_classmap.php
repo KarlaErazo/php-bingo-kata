@@ -8,6 +8,7 @@ $baseDir = dirname($vendorDir);
 return array(
     'BingoCaller' => $baseDir . '/src/BingoCaller.php',
     'BingoCardGenerator' => $baseDir . '/src/BingoCardGenerator.php',
+    'BingoWinnerChecker' => $baseDir . '/src/BingoWinnerChecker.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'Models\\Card' => $baseDir . '/src/Models/Card.php',
     'PHPUnit\\Exception' => $vendorDir . '/phpunit/phpunit/src/Exception.php',

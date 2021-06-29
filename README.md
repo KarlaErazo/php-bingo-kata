@@ -20,3 +20,8 @@ _ Necesitamos un generador de cartones de bingo
 | N | 31 | 45 |
 | G | 45 | 60 |
 | O | 61 | 75 |
+
+### Cheking Bingo Cards
+- We need to check player's cards when they call Bingo (so that a winner can be decided)
+- When a player calls Bingo check if all numbers in his/her card have been called
+- Determine whether a player is winner or not
